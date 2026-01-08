@@ -1,8 +1,11 @@
 # Network Science and Graph Learning
 
 **Course:** Network Science and Graph Learning
+
 **Instructor:** Prof. Vincent Gauthier  
+
 **Institution:** Télécom SudParis  
+
 **Student:** Le Quoc Hung  
 
 ---
